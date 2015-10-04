@@ -2,7 +2,7 @@
 /**
  * This is a proof-of-concept implementation of embedding Java applets in Elgg.
  * It includes a sample applet and game.
- * (C) iionly 2012-2013
+ * (C) iionly 2012
  * GNU General Public License version 2
  */
 

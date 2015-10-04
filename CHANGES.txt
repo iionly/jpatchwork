@@ -1,0 +1,18 @@
+Changelog
+=========
+
+1.9.1
+-----
+
+- Verification that it works both on Elgg 1.10 - 1.12 and Elgg 2.0 (therefore should work on any 2.X releases, too),
+- composer.json added.
+
+1.9.0
+-----
+
+- Updated for Elgg 1.9.
+
+1.0
+---
+
+- Initial release.
