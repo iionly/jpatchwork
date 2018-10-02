@@ -7,11 +7,11 @@
  * GNU General Public License version 2
  */
 
-return array(
-  'jpatchwork:menu' => 'JPatchwork',
-  'jpatchwork:title' => 'JPatchwork',
-  'jpatchwork:sample_title'=> 'Beispiel-Java Applet',
-  'jpatchwork:sample_menu'=> 'Beispiel',
-  'jpatchwork:frozenbubble_title'=> 'Frozen Bubble',
-  'jpatchwork:frozenbubble_menu'=> 'Frozen Bubble'
-);
+return [
+	'jpatchwork:menu' => 'JPatchwork',
+	'jpatchwork:title' => 'JPatchwork',
+	'jpatchwork:sample_title'=> 'Beispiel-Java Applet',
+	'jpatchwork:sample_menu'=> 'Beispiel',
+	'jpatchwork:frozenbubble_title'=> 'Frozen Bubble',
+	'jpatchwork:frozenbubble_menu'=> 'Frozen Bubble',
+];
