@@ -1,8 +1,8 @@
 <?php
 
-$content = elgg_view('jpatchwork/frozenbubble', [], false, false, 'xml');
+$content = elgg_view('jpatchwork/frozenbubble', [], 'xml');
 
-$body = elgg_view('page/layouts/one_sidebar', [
+$body = elgg_view('page/layouts/default', [
 	'content' => $content,
 	'title' => elgg_echo('jpatchwork:frozenbubble_title'),
 ]);

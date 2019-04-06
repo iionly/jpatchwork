@@ -1,7 +1,7 @@
-JPatchwork plugin for Elgg 2.3 and newer Elgg 2.X
+JPatchwork plugin for Elgg 3.0 and newer Elgg 3.X
 =================================================
 
-Latest Version: 2.3.1  
+Latest Version: 3.0.0  
 Released: 2018-08-12  
 Contact: iionly@gmx.de  
 License: GNU General Public License version 2  
@@ -27,4 +27,4 @@ The client side needs to have a Java runtime environment plugin installed in the
 End of life of the JPatchwork plugin
 ------------------------------------
 
-Recent versions of the most used browsers don't support the Java plugins anymore. That means that running Java applets in these browsers won't work anymore at all. Therefore, it makes no sense to support the JPatchwork plugin any more. If you happen to have for example the Palemoon browser installed (I guess there are some others that also still support Java applets) you could still try it out but I don't think there's any use-case on production sites for Java applets anymore. I would think that HTML5 can be used to replace usage of Java applets in most cases. Version 2.3.1 of the JPatchwork plugin will be the last version I will release for Elgg 2.
+Recent versions of the most used browsers don't support the Java plugins anymore. That means that running Java applets in these browsers won't work anymore at all. Therefore, it makes no sense to support the JPatchwork plugin any more. If you happen to have for example the Palemoon browser installed (I guess there are some others that also still support Java applets) you could still try it out but I don't think there's any use-case on production sites for Java applets anymore. I would think that HTML5 can be used to replace usage of Java applets in most cases. Version 3.0.0 of the JPatchwork plugin is the first and at the same time last release for Elgg 3 and it's also the final release I will make of this plugin. Have fun with it as long as you get it working!

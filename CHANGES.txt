@@ -1,6 +1,13 @@
 Changelog
 =========
 
+3.0.0
+-----
+
+- Requires Elgg 3.0 at minimum,
+- Plugin updated to work on Elgg 3,
+- This ist the first and at the same time last release o this plugin for Elgg 3 and it's also the final release made (see "End of life of the JPatchwork plugin"in README.md).
+
 2.3.1
 -----
 

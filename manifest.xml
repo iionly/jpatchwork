@@ -3,7 +3,7 @@
 	<name>JPatchwork</name>
 	<id>jpatchwork</id>
 	<author>iionly</author>
-	<version>2.3.1</version>
+	<version>3.0.0</version>
 	<category>games</category>
 	<description>This is a proof-of-concept implementation of embedding Java applets in Elgg. It includes a sample applet and game.</description>
 	<website>http://www.elgg.org/</website>
@@ -11,6 +11,6 @@
 	<license>GNU General Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
-		<version>2.3.0</version>
+		<version>3.0.0</version>
 	</requires>
 </plugin_manifest>

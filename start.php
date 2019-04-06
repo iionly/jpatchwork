@@ -33,26 +33,4 @@ function jpatchwork_init() {
 		'context' => 'jpatchwork',
 		'section' => 'default',
 	]);
-
-	// routing of urls
-	elgg_register_page_handler('jpatchwork', 'jpatchwork_page_handler');
-}
-
-function jpatchwork_page_handler($page) {
-	if (!isset($page[0])) {
-		$page[0] = 'sample';
-	}
-
-	switch ($page[0]) {
-		case 'sample':
-			echo elgg_view_resource('jpatchwork/sample');
-			break;
-		case 'frozenbubble':
-			echo elgg_view_resource('jpatchwork/frozenbubble');
-			break;
-		default:
-			return false;
-	}
-
-	return true;
 }
